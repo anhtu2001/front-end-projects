@@ -8,7 +8,7 @@ post = [
         // noi dung bai viet chia thanh cac doan la cac ptu trong mang
         content: ['Cách thủ đô Bangkok khoảng ba giờ đi xe, Hua Hin là điểm đến yêu thích mới nhất của tín đồ du lịch. Không quá đông đúc hay sôi động, điều mà người ta thường nghĩ đến khi  nói về du lịch Thái Lan, Hua Hin là một thành phố khá “hiền lành”.','Này là bãi biển với cát trắng mịn, nắng vàng ấm áp và nước trong vắt! Này là nhà ga xe lửa với lối kiến trúc để lại từ thập niên 60 của thế kỷ trước. Tất cả làm nên một Hua Hin mỹ miều, mang theo phong vị xen lẫn hiện đại và cổ điển. Chắc chắn rằng bạn và “nửa kia” sẽ có được nhiều kỷ niệm đẹp cùng những bức ảnh đậm chất “nghệ” khi đến nơi đây.'],
         // cac hoat dong
-        activies:[
+        activities:[
             {
                 name :'Đi chợ đêm Hua Hin',
                 img :'https://divui.com/blog/wp-content/uploads/2016/12/chat-chai.jpg',
