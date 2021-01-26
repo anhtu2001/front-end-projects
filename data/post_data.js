@@ -84,7 +84,7 @@ post = [
             {
                 name :'Thăm núi Phú Sĩ, hồ Suwa & Takayama',
                 img :'https://res.klook.com/image/upload/c_fill,w_960,h_460,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/plxajvd3isp7xdniuapo.webp',
-                des :'i qua những khu trung tâm du lịch nhộn nhịp của Nhật và đến vài nơi yên bình nhất với chuyến đi 1 chiều này. Chuyến đi bạn được sắp xếp đến núi Fuji, hồ Suwa, đồi Shinshu, và Takayama trong 1 ngày. Với 2 chuyến đưa đón có ở Tokyo, chuyến đi này đảm bảo di chuyển nhanh chóng và dễ dàng đến nơi. Bắt đầu một ngày của bạn với chuyến đến trạm số 5 line Fuji Subaru, phát triển nhất trong tất cả 4 trạm Fuji thứ 5. Chuẩn bị máy ảnh cho cảnh đẹp ngoạn mục của 5 hồ Fuji đang chờ đón bạn. Kế tiếp, đến nhà hàng gần Fuji-Q Highland cho bữa trưa. Nhà hàng có thể phục vụ món chay, nên để chắc chắn cho thực đơn mong muốn của bạn hãy báo cho biết khi thanh toán nhé. Sau bữa ăn no nê, đến đài quan sát cho cảnh trên cao của hồ Suwa và đồi Shinshu. Mãn nhãn với chuyến dừng chân cuối cùng của bạn - Takayama, một thành phố được bao quanh bởi núi và cây xanh um tùm. Hòa mình vào văn hóa nơi này khi bạn đi dọc những con phố cổ, nơi kết thúc chuyến đi của bạn.',
+                des :'Di qua những khu trung tâm du lịch nhộn nhịp của Nhật và đến vài nơi yên bình nhất với chuyến đi 1 chiều này. Chuyến đi bạn được sắp xếp đến núi Fuji, hồ Suwa, đồi Shinshu, và Takayama trong 1 ngày. Với 2 chuyến đưa đón có ở Tokyo, chuyến đi này đảm bảo di chuyển nhanh chóng và dễ dàng đến nơi. Bắt đầu một ngày của bạn với chuyến đến trạm số 5 line Fuji Subaru, phát triển nhất trong tất cả 4 trạm Fuji thứ 5. Chuẩn bị máy ảnh cho cảnh đẹp ngoạn mục của 5 hồ Fuji đang chờ đón bạn. Kế tiếp, đến nhà hàng gần Fuji-Q Highland cho bữa trưa. Nhà hàng có thể phục vụ món chay, nên để chắc chắn cho thực đơn mong muốn của bạn hãy báo cho biết khi thanh toán nhé. Sau bữa ăn no nê, đến đài quan sát cho cảnh trên cao của hồ Suwa và đồi Shinshu. Mãn nhãn với chuyến dừng chân cuối cùng của bạn - Takayama, một thành phố được bao quanh bởi núi và cây xanh um tùm. Hòa mình vào văn hóa nơi này khi bạn đi dọc những con phố cổ, nơi kết thúc chuyến đi của bạn.',
                 sub_content:{
                      // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
                      'Mặt trời mọc':['Những người tham gia leo núi Phú Sĩ hẳn đều mong muốn được nhìn thấy cảnh mặt trời mọc từ đỉnh ngọn núi này. Cảnh những tia sáng mặt trời dần dần ló rạng sau những đám mây và bầu trời đêm quả là một khung cảnh tuyệt đẹp.','https://d20aeo683mqd6t.cloudfront.net/images/imgs/000/012/827/original/pixta_16625807_M_s.jpg?1556265232&d=750x750',''],
@@ -94,6 +94,31 @@ post = [
             },
            
         ],
-        type :[NhatBan],
+        type :['NhatBan'],
+    },
+    {
+
+        id : 4,
+        name :'Hồ Nhật Nguyệt',
+        img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/ho-nhat-nguyet-dai-loan.webp',
+        content :['Hồ Nhật Nguyệt (hay Nhật Nguyệt Đàm) nằm ở trung tâm Đài Loan, bao quanh bởi các ngọn núi cao. Thời điểm đến Hồ Nhật Nguyệt đẹp nhất là vào mùa xuân và mùa thu, khi bạn không cần lo lắng về tình trạng quá tải du khách và thong thả chiêm ngưỡng thiên nhiên tuyệt mỹ nơi đây.','Được CNN Travel chọn là một trong những hành trình đẹp nhất thế giới, đường đạp xe quanh hồ Nhật Nguyệt mang đến cho du khách trải nghiệm mới lạ, với khung cảnh hoà hợp giữa núi rừng hùng vĩ và hồ nước trong xanh. Sau khi ngắm cảnh thoả thích, bạn có thể khám phá nét văn hoá độc đáo ở quền Wenwu, nông trường Thanh Cảnh hay làng văn hoá Cửu Tộc.'],
+        activies :[
+            {
+                name :'Thăm thú hồ Meihua',
+                img :'https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/128def06-Meihua-Lake-Tour/Chuy%E1%BA%BFn%20du%20l%E1%BB%8Bch%20h%E1%BB%93%20Meihua.jpg',
+                des :'Dành thời gian nhàn nhã thăm Hồ Meihua để tận hưởng quang cảnh tự nhiên tuyệt đẹp. Bạn sẽ được chào đón với cây cỏ tươi tốt và không khí trong lành, nơi bạn có thể dành thời gian đi bộ, đi xe đạp và đi du thuyền trên hồ. Điểm nổi bật khác là Đền Sanqing - nằm trên sườn phía nam của hồ Meihua, kiến trúc của ngôi đền giống như các tòa án kiểu triều đình truyền thống và rất đáng xem. Hoàn thành buổi chiều của bạn với một bữa tiệc trà ngon miệng tại quán cà phê Salex khi bạn ngắm nhìn những khung cảnh hồ tuyệt đẹp.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                    '':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/7b4311f2-Meihua-Lake-Tour/Chuy%E1%BA%BFndul%E1%BB%8Bchh%E1%BB%93Meihua.webp','Đạp xe, đi bộ và đi thuyền trong chuyến đi nửa ngày'],
+                    '':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/b9fbfca1-Meihua-Lake-Tour/Chuy%E1%BA%BFndul%E1%BB%8Bchh%E1%BB%93Meihua.webp','Tham quan các thắng cảnh địa phương và ngất ngây trước kiến trúc của Đền Sanqing'],
+                },
+            },
+            {
+                name :'Ngắm khinh khí cầu ở Đài Đông',
+                img :'https://res.klook.com/image/upload/c_fill,w_960,h_460,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/fbd6ba4e-Taitung-Hot-Air-Balloon-Tour---Klook.webp',
+                des :'Bay cao trên khinh khí cầu trải nghiệm không giống bất cứ ai. Tận hưởng khung cảnh tuyệt vời của những dòng sông và khe thung lũng xung quanh Đài Đông, tận hưởng nét đẹp của thiên nhiên qua nhiều góc nhìn khác nhau khi đứng giữa không. Khi bạn lướt nhẹ trên bầu trời và bay xuyên qua những đám mây tự hỏi khung cảnh xung quanh bên dưới bạn thế nào. Sau đó, đáp xuống và uống mừng với ly sâm banh, và nhận chứng nhận cho chuyến đi đáng nhớ cũng như trải nghiệm tuyệt vời đã đến với bạn.',
+            },
+        ],
+        type :['DaiLoan']
     },
 ]
