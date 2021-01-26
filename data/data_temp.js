@@ -37,37 +37,22 @@ post = [
     //__________NỘI DUNG MỖI ĐIỂM DU LỊCH ĐỀU CHỨA TẠI ĐÂY, MỌI NGƯỜI CHỈ CẦN COP MẪU NÀY VÀO FILE .JS RỒI LÀM
     //________________________________________COP TEMPLATE DƯỜI_________________________________
     {
-        //  id : sô thứ tự điểm du lịch trong bài 
-        id :,
-        // tên điểm du lịch, cop như trong bài
-        name :'',
-        // linh ảnh về điểm du lịch trên
-        img :'',
-        // nội dung ở link https://www.klook.com/vi/blog/diem-du-lich-lang-man-chau-a/
-        // đây là 1 mảng dạng sau ['doan1', 'doan2', 'doan3',...]
-        content :[],
-        // đây là các hoạt động của điểm du lịch tham khao như mẫu trên kia
-        activies :[
-            {// hoạt động 1
-                name :'',
-                img :'',
-                des :'',
-                // noi dung phụ
-                sub_content:{
-                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
-                },
-            },
-            {// hoạt động 2
-                name :'',
-                img :'',
-                des :'',
-                sub_content:{
-                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
-                },
-            },
 
+        id :,
+        name :'',
+        img :'',
+        content :[],
+        activies :[
+            {
+                name :'',
+                img :'',
+                des :'',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                },
+            },
+           
         ],
         type :[]
     },
-    //____________________THE END_____________________
 ]
