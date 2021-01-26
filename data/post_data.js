@@ -38,7 +38,7 @@ post = [
         name :'Làng Ihwa Mural',
         img :'https://thongtinhanquoc.com/wp-content/uploads/2019/08/tthq-lang-ihwa03.jpg',
         content :['Toạ lạc tại quận Hyehwa, Seoul, những bậc thang được điểm tô như một bức tranh hoa khổng lồ của làng Ihwa Mural là hình ảnh quá đỗi quen thuộc đối với “mọt” phim Hàn Quốc. Không chỉ sở hữu vẻ đẹp nên thơ, nhịp sống xung quanh làng Ihwa Mural còn tương tự như vừa bước ra từ phim điện ảnh.','Buổi sáng, bạn có thể thư thả đọc sách ở một quán café radio cũ kỹ, viếng thăm bảo tàng nghệ thuật hay dạo quanh công viên Naksan. Khi đêm về, cùng nhau ăn thịt nướng, topokki, bánh cá… ở các cửa hàng gần ga Hyehwa hay đắm chìm trong nhạc Jazz đều là những ý tưởng không tồi.'],
-        activies :[
+        activities :[
             {
                 name :'Khám phá Seoul trong 1 ngày',
                 img :'https://www.tugo.com.vn/wp-content/uploads/han-quoc-diem-den-yeu-thich-bac-nhat-cua-du-khach-trong-vai-nam-tro-lai-day.png',
@@ -64,12 +64,11 @@ post = [
         type :['HanQuoc'],
     },
     {
-
         id :3,
         name :'Hồ Kawaguchi',
         img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/ho-kawakuchi-nhat-ban.webp',
         content :['Không phải ngẫu nhiên mà nhiều du khách chọn hồ Kawaguchi để tỏ tình hay chụp ảnh cưới. Thuộc “Phú Sĩ Ngũ Hồ”, Kawaguchi làm say lòng khách phương xa bởi vẻ đẹp tựa “tiên cảnh nơi hạ giới”. Mặt hồ phẳng lặng, nước trong veo, nằm yên bình giữa rừng cây xanh bát ngát.  Xung quanh hồ đặt nhiều băng ghế đá; du khách có thể ngồi lại nghỉ chân, tán gẫu hay đơn giản là chiêm nghiệm vẻ đẹp hoàn hảo của thiên nhiên. Nếu may mắn đến hồ Kawaguchi vào ngày trời trong, bạn còn được nhìn thấy toàn cảnh núi Phú Sĩ vừa hùng dũng vừa thơ mộng.', 'Có rất nhiều khách sạn, resort, nhà hàng và quán café đẹp ở gần hồ Kawaguchi. Bạn có thể lưu lại đây vài ngày, để tham gia các hoạt động thú vị như đạp xe quanh hồ, trượt ván nước, ngắm hoa hoặc chèo thuyền.'],
-        activies :[
+        activities :[
             {
                 name :'Vui chơi ở công viên Fuji Q',
                 img :'https://image.thanhnien.vn/768/uploaded/ngocthanh/2019_07_15/image001_lmtz.jpg',
@@ -102,23 +101,113 @@ post = [
         name :'Hồ Nhật Nguyệt',
         img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/ho-nhat-nguyet-dai-loan.webp',
         content :['Hồ Nhật Nguyệt (hay Nhật Nguyệt Đàm) nằm ở trung tâm Đài Loan, bao quanh bởi các ngọn núi cao. Thời điểm đến Hồ Nhật Nguyệt đẹp nhất là vào mùa xuân và mùa thu, khi bạn không cần lo lắng về tình trạng quá tải du khách và thong thả chiêm ngưỡng thiên nhiên tuyệt mỹ nơi đây.','Được CNN Travel chọn là một trong những hành trình đẹp nhất thế giới, đường đạp xe quanh hồ Nhật Nguyệt mang đến cho du khách trải nghiệm mới lạ, với khung cảnh hoà hợp giữa núi rừng hùng vĩ và hồ nước trong xanh. Sau khi ngắm cảnh thoả thích, bạn có thể khám phá nét văn hoá độc đáo ở quền Wenwu, nông trường Thanh Cảnh hay làng văn hoá Cửu Tộc.'],
-        activies :[
+        activities :[
             {
                 name :'Thăm thú hồ Meihua',
                 img :'https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/128def06-Meihua-Lake-Tour/Chuy%E1%BA%BFn%20du%20l%E1%BB%8Bch%20h%E1%BB%93%20Meihua.jpg',
                 des :'Dành thời gian nhàn nhã thăm Hồ Meihua để tận hưởng quang cảnh tự nhiên tuyệt đẹp. Bạn sẽ được chào đón với cây cỏ tươi tốt và không khí trong lành, nơi bạn có thể dành thời gian đi bộ, đi xe đạp và đi du thuyền trên hồ. Điểm nổi bật khác là Đền Sanqing - nằm trên sườn phía nam của hồ Meihua, kiến trúc của ngôi đền giống như các tòa án kiểu triều đình truyền thống và rất đáng xem. Hoàn thành buổi chiều của bạn với một bữa tiệc trà ngon miệng tại quán cà phê Salex khi bạn ngắm nhìn những khung cảnh hồ tuyệt đẹp.',
                 sub_content:{
                      // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
-                    '':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/7b4311f2-Meihua-Lake-Tour/Chuy%E1%BA%BFndul%E1%BB%8Bchh%E1%BB%93Meihua.webp','Đạp xe, đi bộ và đi thuyền trong chuyến đi nửa ngày'],
-                    '':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/b9fbfca1-Meihua-Lake-Tour/Chuy%E1%BA%BFndul%E1%BB%8Bchh%E1%BB%93Meihua.webp','Tham quan các thắng cảnh địa phương và ngất ngây trước kiến trúc của Đền Sanqing'],
+                    'Hoạt động dã ngoại':['Bạn có thể thuê một chiếc xe đạp điện cho bốn người để đi vòng quanh hồ và dừng lại ở nhiều điểm','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/7b4311f2-Meihua-Lake-Tour/Chuy%E1%BA%BFndul%E1%BB%8Bchh%E1%BB%93Meihua.webp','Đạp xe, đi bộ và đi thuyền trong chuyến đi nửa ngày'],
+                    'Đền Sanqing':['Tham quan các thắng cảnh địa phương và ngất ngây trước kiến trúc của Đền Sanqing','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/b9fbfca1-Meihua-Lake-Tour/Chuy%E1%BA%BFndul%E1%BB%8Bchh%E1%BB%93Meihua.webp','Đền Sanqing'],
                 },
             },
             {
                 name :'Ngắm khinh khí cầu ở Đài Đông',
                 img :'https://res.klook.com/image/upload/c_fill,w_960,h_460,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/fbd6ba4e-Taitung-Hot-Air-Balloon-Tour---Klook.webp',
                 des :'Bay cao trên khinh khí cầu trải nghiệm không giống bất cứ ai. Tận hưởng khung cảnh tuyệt vời của những dòng sông và khe thung lũng xung quanh Đài Đông, tận hưởng nét đẹp của thiên nhiên qua nhiều góc nhìn khác nhau khi đứng giữa không. Khi bạn lướt nhẹ trên bầu trời và bay xuyên qua những đám mây tự hỏi khung cảnh xung quanh bên dưới bạn thế nào. Sau đó, đáp xuống và uống mừng với ly sâm banh, và nhận chứng nhận cho chuyến đi đáng nhớ cũng như trải nghiệm tuyệt vời đã đến với bạn.',
+                sub_content:{
+                    // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                    'Tận hưởng vẻ đẹp ngoài sức tưởng tượng của Đài Đông ở trên cao':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/25e79443-Taitung-Hot-Air-Balloon-Tour---Klook/TourKhinhKh%C3%ADC%E1%BA%A7u%C4%90%C3%A0i%C4%90%C3%B4ng(Taitung).webp',''],
+                    'Đi qua các thung lũng, núi đồi, và sông từ trên cao trong những đám mây':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/af848b30-Taitung-Hot-Air-Balloon-Tour---Klook/TourKhinhKh%C3%ADC%E1%BA%A7u%C4%90%C3%A0i%C4%90%C3%B4ng(Taitung).webp',''],
+               },
+            },    
+        ],
+        type :['DaiLoan'],
+    },
+    {
+        id :5,
+        name :'Galle',
+        img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-galle-sri-lanka.webp',
+        content :['Sở hữu hình dáng như “giọt nước mắt” giữa lòng Ấn Độ Dương, quốc đảo Sri Lanka là điểm đến không thể bỏ qua đối với người thích khám phá nền văn hoá mới. Galle, thành phố ven biển phía Nam Sri Lanka, thường được tín đồ du lịch ví như một hòn ngọc thô hoàn hảo. Từ những cảng biển cũ kỹ đến nhà thờ, bảo tàng hoặc pháo đài được xây dựng theo kiến trúc Hà Lan, không khó để nhận ra một Galle cổ kính mà cũng rất kiêu kỳ.'],
+        activities :[
+            {
+                name :'Tour Câu Cá Truyền Thống Ở Galle',
+                img :'https://res.klook.com/image/upload/c_fill,w_960,h_460,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/ezsewmi5oprxih3kbjgi.webp',
+                des :'Khi ở Galle, việc xem và học hỏi cách người dân sống hàng ngày luôn là 1 trải nghiệm tuyệt vời. Với hoạt động này, du khách sẽ có thể đóng vai 1 ngư dân người Galle và đến Đầm phá Hikkaudwa để thử bắt cá theo cách truyền thống! Bắt đầu với chuyến xe đón khách tiện lợi ở khách sạn, hướng dẫn viên sẽ đưa bạn đến đầm phá nơi bạn sẽ được cung cấp mọi dụng cụ cần thiết trước khi đi bắt cá trên thuyền chèo, theo đúng cách của người dân địa phương. Học hỏi từ hướng dẫn viên cũng như ngư dân cách để câu tốt nhất. Đây là 1 trải nghiệm thú vị kéo dài 2 giờ, độc đáo không như những chuyến đi hay hoạt động khác bạn có thể thấy ở Galle. Sau khi câu cá, bạn sẽ được đưa đến khách sạn địa phương để tận hưởng bữa trưa đầy ắp và ngon miệng. Hoạt động sẽ kết thúc và bạn sẽ được đưa về khách sạn ở Galle, với những kỉ niệm mới để chia sẻ với người thân khi về nhà.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                     'Đến Đầm phá Hikkaduwa để bắt đầu chuyến bắt cá buổi sáng cùng hướng dẫn viên':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1024,h_768,f_auto/w_63,x_11,y_11,g_south_west,l_klook_water/activities/ubf1jatkyt7tiofsaivx/TourC%C3%A2uC%C3%A1Truy%E1%BB%81nTh%E1%BB%91ng%E1%BB%9EGalle.webp',''],
+                     'Quan sát ngư dân địa phương về cách họ tìm cá để bắt':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_858,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/dksymv6idww5nw9t2ynw/TourC%C3%A2uC%C3%A1Truy%E1%BB%81nTh%E1%BB%91ng%E1%BB%9EGalle.webp',''],
+                     'Học những mẹo để bắt cá trong khu vực và có thể bạn sẽ bắt được 1 chú cá to như thế này':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_858,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/ndtaymwfgkj4yktdkwxq/TourC%C3%A2uC%C3%A1Truy%E1%BB%81nTh%E1%BB%91ng%E1%BB%9EGalle.webp',''],
+                },
             },
         ],
-        type :['DaiLoan']
+        type :['SriLanka'],
+    },
+    {
+
+        id :6,
+        name :'Yamagata',
+        img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-Yamagata-nhat-ban.webp',
+        content :['Yamagata nằm ở Tohoku, được mệnh danh là vùng đất của suối nước nóng (Osen) và hoa anh đào. Có lẽ chỉ cần nghe đến biệt danh này, bạn cũng phần nào mường tượng được vẻ đẹp duy mỹ và thanh bình nơi đây. Đặc sản của Yamagata, bên cạnh hoa hồng, tỳ linh và cá hồi thì còn có những ngôi nhà gỗ nằm san sát nhau, mang theo sắc màu đặc trưng của một Nhật Bản cổ xưa.'],
+        activities :[
+            {
+                name :'Sagano – Chuyến tàu lãng mạn',
+                img :'https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/3916ca4c-/Chuy%E1%BA%BFnT%C3%A0uSaganoL%C3%A3ngM%E1%BA%A1n(Nh%E1%BA%ADnv%C3%A9%E1%BB%9FTrungT%C3%A2mOsaka).webp',
+                des :'Nhận trước vé tàu Sagano của bạn 1 cách tiện lợi ở trung tâm Osaka và chuẩn bị lên chuyến tàu lãng mạn ở gần Kyoto này từ Ga Kameoka. Vé của bạn sẽ có giá trị cho chuyến đi một chiều từ ga Kameoka đến ga Saga, (bạn cũng có thể đặt chuyến về riêng) đây là một trong những tuyến đường đẹp nhất ở Nhật Bản. Trong chuyến đi 25 phút này, bạn sẽ thấy một thiên đường phủ đầy tuyết vào mùa đông, cảnh vật bị che khuất bởi những cây phong màu đỏ thẫm vào mùa thu, quang cảnh xanh mướt mượt vào mùa hè, và tất nhiên, hoa anh đào nở rộ vào mùa xuân.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                     'Công viên Nara':['nơi đây sở hữu và bảo tồn một quần thể kiến trúc cổ độc đáo được UNESCO công nhận di sản Thế Giới: Công viên Nara – với đàn hươu sao hơn 1000 con đi tự do trong công viên (theo Thần Đạo của Nhật Bản thì hươu được xem là sứ giả của thần linh).','https://dulichnhatban.net/static/uploads/images/tynimce/2018/06/20/Saigontourist_Nhat-Ban_Cong-vien-Nara1.jpg', 'chu hou vang ngo ngac'],
+                     'Chùa Todaiji (Đông Đại Tự)':['đây là ngôi chùa bằng gỗ lớn nhất Thế Giới, bên trong chùa có pho Đại tượng phật khổng lồ có tên gọi Daibustu cao đến 14,98m và nặng hơn 550 tấn.Quý khách dùng bữa trưa.','https://dulichnhatban.net/static/uploads/images/tynimce/2018/06/20/pixta_19300561_M.jpg',''],
+                     'Thành Osaka':['một trong những thành quách nổi tiếng nhất Nhật Bản, là biểu tượng và niềm tự hào của người dân Osaka, vào mùa thu quý khách có thể trải nghiệm sự kết hợp giữa lá đỏ cùng hàng cây bạch quả.','https://dulichnhatban.net/static/uploads/images/tynimce/2018/06/20/lau-dai-oska3.jpg',''],
+                     
+                },
+            },
+            {
+                name :'Tắm suối nước nóng tại Hokkaido',
+                img :'https://rlx.jp/relux/img/hotelpictures/RP25766_1042.jpg?1574826965',
+                des :'Sau sự vội vã và nhộn nhịp xung quanh thị trấn, còn cách nào tốt hơn để thư giãn hơn là một chuyến đi trong ngày đến một spa và onsen nghỉ dưỡng tự nhiên sang trọng? Bạn sẽ khởi hành từ Ga Sapporo để đến khu nghỉ dưỡng nổi tiếng Jozankei Tsuruga Resort Mori No Uta. Tên gọi của nó, có nghĩa là Bài Thơ Của Khu Rừng, thật hoàn hảo với vị trí tuyệt đẹp nằm trong khu rừng Hokkaido tươi tốt. Khu nghỉ mát spa có các tiện nghi hàng đầu, từ các phòng mát-xa đến phòng xông hơi khô, ăn buffet và thậm chí cả nhà hàng. Nhưng đặc điểm nổi tiếng nhất của khu nghỉ mát spa này là onsen nổi tiếng hoặc suối nước nóng. Onsen truyền thống Nhật Bản ngoài trời được bao quanh bởi những khu rừng rậm rạp của Hokkaido. Đắm chìm trong làn nước nóng tự nhiên của nó và tận hưởng bầu không khí trẻ trung của thiên nhiên và cảm thấy căng thẳng của bạn cứ trôi tuột đi. Sau khi bạn đã tận hưởng cơ sở vật chất của spa, hãy gặp gỡ các thành viên còn lại của nhóm tại trạm xe buýt và trở về Sapporo một cách an toàn và sẵn sàng cho một ngày du lịch khác.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                     'Tận hưởng trải nghiệm onsen độc đáo tại khu nghỉ mát Jozankei Tsuruga Resort Spa nổi tiếng':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/exegdlb0yzfqjmbvsgzx/TourT%E1%BA%AFmSu%E1%BB%91iN%C6%B0%E1%BB%9BcN%C3%B3ng%E1%BB%9FHokkaidoJozankeiResortSpaMoriNoUta.webp',''],
+                     'Thư giãn tại các tiện nghi spa cao cấp trong phạm vi resort':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/x0hvgb4hgo61lj7yapit/TourT%E1%BA%AFmSu%E1%BB%91iN%C6%B0%E1%BB%9BcN%C3%B3ng%E1%BB%9FHokkaidoJozankeiResortSpaMoriNoUta.webp',''],
+                     'Ngâm mình trong suối nước nóng thiên nhiên và tận hưởng bầu không khí của rừng Hokkaido':['','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/xomicpw59dfayztydjwd/TourT%E1%BA%AFmSu%E1%BB%91iN%C6%B0%E1%BB%9BcN%C3%B3ng%E1%BB%9FHokkaidoJozankeiResortSpaMoriNoUta.webp',''],
+                },
+            },
+        ],
+        type :['NhatBan'],
+    },
+    {
+        id :7,
+        name :'Koh Larn',
+        img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-Koh-Larn-Thai-Lan.webp',
+        content :['Nếu không thích Pattaya ồn ào, bạn có thể đi tàu khoảng 30 phút để đến Koh Larn – một hòn đảo riêng tư và yên tĩnh. Đảo san hô đặc biệt vắng khách du lịch vào các ngày giữa tuần; bạn có thể tận hưởng trọn vẹn thiên nhiên bình dị và tham gia nhiều hoạt động vui chơi hứng khởi như lặn biển, đi bộ dưới biển, dù lượn, mô tô nước hoặc đi thuyền chuối. Đừng quên mang theo một chiếc camera du lịch có khả năng chống nước để lưu lại những hình ảnh sống động dưới đại dương nghe!'],
+        activities :[
+            {
+                name :'Tận hưởng thể thao mạo hiểm',
+                img :'https://dulichcatvang.com/wp-content/uploads/2017/05/den-Pattaya-Thai-Lan-kham-pha-thien-duong-dao-san-ho-koh-larn-ivivu-13.jpg',
+                des :'',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                    'Thám hiểm Pattaya với xe ATV':['Hãy xuống đường, để lại sự hối hả và nhộn nhịp đằng sau và khám phá vùng nông thôn Thái Lan nguyên sơ cách chưa đến nửa giờ đi từ thành phố bận rộn. Nhảy lên xe ATV và lái dọc theo tuyến đường mòn. Tận hưởng ánh nắng mặt trời hoặc lưới qua bùn - chuyến phiêu lưu trên ATV thú vị trong bất kỳ thời tiết nào và chỉ khiến bạn muốn đi thêm. Chưa bao giờ lái ATV? Đừng lo - sẽ không cần kinh nghiệm gì cả đâu, rồi bạn sẽ trở thành 1 tay lái xe ATV nhập Mỹ hàng đầu. Chiếc xe rất dễ để điều khiển và bạn có thể lái nó ngay lập tức. Vậy nên, hãy đạp ga và bắt đầu cuộc vui nào','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/6082fdae-Pattaya-ATV-Adventure-ATV-/Th%C3%A1mHi%E1%BB%83mPattayaV%E1%BB%9BiXeATV.webp','Khám phá Pattaya trên chuyến đi vui vẻ bằng ATV'],
+                    'Vé Nhảy Dù Đôi của Thai Sky Adventures':['Nếu nhảy dù luôn nằm trong danh sách bạn muốn thực hiện, hãy biến giấc mơ này thành hiện thực trong chuyến du lịch sắp tới ở Thái Lan. Hãy tham gia hành trình đầy phấn khích này của Thai Sky Adventures và có được đầy đủ những gì cần thiết cho một trải nghiệm nhảy dù an toàn khó quên. Bạn sẽ được hướng dẫn bởi một trong những chuyên gia huấn luyện và còn được hỗ trợ lên máy bay để thực hiện cú nhảy! Nhớ mở mắt để ngắm nhìn khung cảnh tuyệt vời của Pattaya và Vịnh Thái Lan khi bạn rơi tự do với tốc độ 220km/h nhé! Nếu bạn muốn lưu giữ lại trọn vẹn trải nghiệm này, bạn có thể chọn lưu giữ bằng hình ảnh và video. Có cả xe đưa đón khứ hồi để bạn có một chuyến phiêu lưu kích thích trọn vẹn khi ở Thái Lan!','https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_971,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/uayat3e8jdf6dal2ivae/V%C3%A9Nh%E1%BA%A3yD%C3%B9%C4%90%C3%B4ic%E1%BB%A7aThaiSkyAdventures.webp','Hãy làm cho giấc mơ nhảy dù thành hiện thực trong chuyến du lịch sắp đến của bạn ở Thái Lan!'],
+                    'Human Slingshot Và Nhảy Bungy Tại Công Viên Sanook Pattaya':['Những người tìm kiếm cảm giác mạnh và những người đam mê mạo hiểm sẽ không muốn bỏ lỡ cơ hội thử sức với câu lạc bộ Human Slingshot và nhảy Bungy sôi động tại Sanook Park, Pattaya! Kể từ năm 1989, Sanook Park đã đáp ứng nhu cầu của những người thích phiêu lưu mạo hiểm với cú nhảy bungy cao 60m của mình không chỉ mang đến cho bạn cảm giác chóng mặt rơi tự do mà còn có tầm nhìn tuyệt vời ra hồ ngay bên dưới. Nếu đó là không đủ cho bạn, bạn cũng có thể thử ná bắn đạn người, một máy phóng đưa bạn lên trên 90m cao ở tốc độ 150km/s dựng tóc gáy! Nếu bạn vẫn còn lo lắng về việc có nên thử những chuyến đi bất chấp hiểm nguy, không cần phải lo lắng! Hướng dẫn viên nói tiếng Anh chuyên nghiệp của bạn sẽ ở đó để hướng dẫn bạn về các biện pháp an toàn cơ bản và cổ vũ bạn nếu bạn cần tăng thêm tinh thần. Cho dù đó là nhảy bungy, ná bắn đạn người, hoặc cả hai, bạn chắc chắn sẽ có khoảng thời gian tuyệt nhất trước giờ của cuộc sống của bạn. Thêm vào đó, bạn thậm chí có thể mang về nhà một video HD của bạn để cho tất cả mọi người trở về nhà và làm cho họ muốn họ đã có ở đấy để trải nghiệm nó!','https://res.klook.com/image/upload/c_fill,w_960,h_460,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/mimxg0abrlurmkt5kxmj.webp','Thử thách chính bản thân nhảy khỏi nền tảng cao 60m và lao xuống thế giới bên dưới!'],
+                },
+            },
+            {
+                name :'Vi vu chợ nổi',
+                img :'https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/chonoi-pattaya-bangkok-thailan-vntrip-e1523608277239.jpg',
+                des :'Thái Lan sở hữu cho mình rất nhiều địa điểm hấp dẫn khách du lịch. Trong số đó, không thể không nhắc đến chợ nổi Pattaya, một khu chợ độc đáo của xứ Chùa Vàng. Những mặt hàng được bày bán ở đây rất đa dạng nhưng hấp dẫn nhất vẫn là những món ăn vặt đường phố hấp dẫn cùng những chiếc thuyền đầy ắp hoa quả tươi ngon luôn là những mặt hàng hấp dẫn khách du lịch.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc'
+                    'Đôi nét về chợ nổi Pattaya':['Được đưa vào hoạt động năm 2008, khu chợ này có diện tích lên đến 100.000 mét vuông, và có tên gọi đầy đủ là chợ nổi Bốn Miền (Four Regions Floating Market). Nơi đây được quy hoạch và chia thành 4 khu vực riêng biệt, tượng trưng cho bốn miền của Thái Lan bao gồm Bắc, Trung, Nam và vùng Đông Bắc. Mỗi khu vực lại bán những vật dụng, hàng hóa, sản vật đặc trưng của từng vùng miền.','https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/cho-noi-vntrip-e1523607389307.jpg','Khu chợ nổi nổi tiếng của Thái Lan'],
+                    'Chợ nổi Bốn Miền Pattaya ở đâu?':['Tọa tạc tại khu Sukhumvit Pattaya, chợ nổi Bốn Miền nằm cách ngã tư South Pattaya Road (Pattaya Tai) chừng 5 km về phía đường cao tốc. Để tới thăm quan khu chợ, bạn có thể di chuyển dễ dàng bằng nhiều phương tiện khác nhau như đi bus, đi xe ôm hoặc nếu kinh phí không hạn hẹp bạn có thể đi taxi là đơn giản và thuận tiện nhất. Khi tới Sukhumvit đi tiếp chừng 2 km nữa bạn sẽ qua Pattaya Underwater World, trên đường đến Sattahip. Từ trung tâm Pattaya đến địa điểm này bạn sẽ phải chi trả khoảng 200-300 baht cho việc di chuyển, giá tiền này sẽ phụ thuộc vào thời điểm và phương tiện bạn lựa chọn. Để vào chợ bạn sẽ phải mua vé, giá vé chợ nổi Pattaya là 200 baht (khoảng 70.000đ). Giá vé khá rẻ nhưng khu chợ này thường rất đông vào những ngày cuối tuần, bạn nên lưu ý điều này.','https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/cho-noi-4mien-Pattaya-vntrip-e1523607633392.jpg','Bạn nên thuê thuyền đi dạo trong khu chợ này'],
+                    'Cách đi chợ nổi Pattaya':['Vì đặc thù được xây nổi trên nước nên đến với khu chợ này chắc hẳn sẽ không còn phương tiện nào thích hợp hơn một chiếc thuyền có người lái. Như vậy sẽ thuận tiện hơn rất nhiều cho việc thăm quan khám phá những điều lý thú xung quanh khu chợ. Nếu bạn đi cùng gia đình hoặc bạn bè với nhóm từ 4 đến 6 người thì giá thuê thuyền trong 30 phút khá rẻ. Ngoài ra, bạn hoàn toàn có thể đi bộ dọc theo các dãy nhà gỗ san sát. Qua mỗi khu, các gian nhà lại mang những nét kiến trúc đặc trưng của từng vùng, đem lại cho bạn cảm giác như đang băng qua những khu phố sầm uất trên khắp đất nước Thái Lan.','https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/04/thamquan-cho-noi-pattaya-vntrip-e1523607968353.jpg','Thuyền lớn trở từ 4-6 người có giá thuê khá rẻ'],
+                },
+            },
+            
+        ],
+        type :['ThaiLan'],
     },
 ]
