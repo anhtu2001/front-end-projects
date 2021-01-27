@@ -1,6 +1,6 @@
 post = [
     {
-        id :1,
+        id :0,
         //  ten tieu de
         name: 'Hua Hin',
         // tieu de anh
@@ -13,8 +13,7 @@ post = [
                 name :'Đi chợ đêm Hua Hin',
                 img :'https://divui.com/blog/wp-content/uploads/2016/12/chat-chai.jpg',
                 des : 'Hua Hin là thiên đường mua sắm xinh đẹp ở Thái Lan. Ấn tượng ở các khu chợ ở Hua Hin là phong cách vintage, cổ kính và tinh tế. Cùng khám phá nét đẹp quyến rũ của 5 khu chợ đêm Hua Hin nổi tiếng sau đây!',
-                sub_content :{ // nội dung như linh này: https://halotravel.vn/cho-dem-hua-hin/
-                    //___________PHẢI TUÂN THỦ THEO MẪU DƯỚI:
+                sub_content :{
                     // tieu de: ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
                     'Chợ Cicada':['Chợ Cicada là khu chợ đêm Hua Hin có không gian đẹp nhất. Với phong cách nghệ thuật độc đáo, khu chợ được chia làm 4 khu khác nhau. Chợ buôn bán các mặt hàng truyền thống là chính, bao gồm tranh vẽ, tượng và đồ điêu khắc, đồ trang trí nhà cửa,… Du khách tham quan chợ có thể thưởng thức các buổi biểu diễn âm nhạc miễn phí vào các ngày cuối tuần. Ở gần biển nên chợ Cicada cũng là địa điểm lý tưởng để các cặp đôi tảo bộ đầy lãng mạn.','https://halotravel.vn/wp-content/uploads/2019/05/thailan_cho-dem-hua-hin-01.jpg', 'Cicada là khu chợ truyền thống ở Hua Hin'],
                     'Chợ Chatchai':['Chợ Chatchai nổi tiếng với những món ăn đường phố thơm ngon. Bạn sẽ chìm đắm vào hương vị và màu sắc đa dạng của các món ngon vỉa hè ở Thái Lan. Chợ đêm Hua Hin này còn là nơi bạn có thể thoả thích mua sắm từ trang sức, phụ kiện, đồ điêu khắc, cho tới quần áo, quà lưu niệm,…', 'https://halotravel.vn/wp-content/uploads/2019/05/thailan_cho-dem-hua-hin-02.jpg', 'Chợ Chatchai là địa điểm được khách ngoại quốc yêu thích'],
@@ -34,7 +33,7 @@ post = [
         type: ['ThaiLan'],
     },
     {
-        id :2,
+        id :1,
         name :'Làng Ihwa Mural',
         img :'https://thongtinhanquoc.com/wp-content/uploads/2019/08/tthq-lang-ihwa03.jpg',
         content :['Toạ lạc tại quận Hyehwa, Seoul, những bậc thang được điểm tô như một bức tranh hoa khổng lồ của làng Ihwa Mural là hình ảnh quá đỗi quen thuộc đối với “mọt” phim Hàn Quốc. Không chỉ sở hữu vẻ đẹp nên thơ, nhịp sống xung quanh làng Ihwa Mural còn tương tự như vừa bước ra từ phim điện ảnh.','Buổi sáng, bạn có thể thư thả đọc sách ở một quán café radio cũ kỹ, viếng thăm bảo tàng nghệ thuật hay dạo quanh công viên Naksan. Khi đêm về, cùng nhau ăn thịt nướng, topokki, bánh cá… ở các cửa hàng gần ga Hyehwa hay đắm chìm trong nhạc Jazz đều là những ý tưởng không tồi.'],
@@ -64,7 +63,7 @@ post = [
         type :['HanQuoc'],
     },
     {
-        id :3,
+        id :2,
         name :'Hồ Kawaguchi',
         img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/ho-kawakuchi-nhat-ban.webp',
         content :['Không phải ngẫu nhiên mà nhiều du khách chọn hồ Kawaguchi để tỏ tình hay chụp ảnh cưới. Thuộc “Phú Sĩ Ngũ Hồ”, Kawaguchi làm say lòng khách phương xa bởi vẻ đẹp tựa “tiên cảnh nơi hạ giới”. Mặt hồ phẳng lặng, nước trong veo, nằm yên bình giữa rừng cây xanh bát ngát.  Xung quanh hồ đặt nhiều băng ghế đá; du khách có thể ngồi lại nghỉ chân, tán gẫu hay đơn giản là chiêm nghiệm vẻ đẹp hoàn hảo của thiên nhiên. Nếu may mắn đến hồ Kawaguchi vào ngày trời trong, bạn còn được nhìn thấy toàn cảnh núi Phú Sĩ vừa hùng dũng vừa thơ mộng.', 'Có rất nhiều khách sạn, resort, nhà hàng và quán café đẹp ở gần hồ Kawaguchi. Bạn có thể lưu lại đây vài ngày, để tham gia các hoạt động thú vị như đạp xe quanh hồ, trượt ván nước, ngắm hoa hoặc chèo thuyền.'],
@@ -97,7 +96,7 @@ post = [
     },
     {
 
-        id : 4,
+        id : 3,
         name :'Hồ Nhật Nguyệt',
         img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/ho-nhat-nguyet-dai-loan.webp',
         content :['Hồ Nhật Nguyệt (hay Nhật Nguyệt Đàm) nằm ở trung tâm Đài Loan, bao quanh bởi các ngọn núi cao. Thời điểm đến Hồ Nhật Nguyệt đẹp nhất là vào mùa xuân và mùa thu, khi bạn không cần lo lắng về tình trạng quá tải du khách và thong thả chiêm ngưỡng thiên nhiên tuyệt mỹ nơi đây.','Được CNN Travel chọn là một trong những hành trình đẹp nhất thế giới, đường đạp xe quanh hồ Nhật Nguyệt mang đến cho du khách trải nghiệm mới lạ, với khung cảnh hoà hợp giữa núi rừng hùng vĩ và hồ nước trong xanh. Sau khi ngắm cảnh thoả thích, bạn có thể khám phá nét văn hoá độc đáo ở quền Wenwu, nông trường Thanh Cảnh hay làng văn hoá Cửu Tộc.'],
@@ -126,7 +125,7 @@ post = [
         type :['DaiLoan'],
     },
     {
-        id :5,
+        id :4,
         name :'Galle',
         img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-galle-sri-lanka.webp',
         content :['Sở hữu hình dáng như “giọt nước mắt” giữa lòng Ấn Độ Dương, quốc đảo Sri Lanka là điểm đến không thể bỏ qua đối với người thích khám phá nền văn hoá mới. Galle, thành phố ven biển phía Nam Sri Lanka, thường được tín đồ du lịch ví như một hòn ngọc thô hoàn hảo. Từ những cảng biển cũ kỹ đến nhà thờ, bảo tàng hoặc pháo đài được xây dựng theo kiến trúc Hà Lan, không khó để nhận ra một Galle cổ kính mà cũng rất kiêu kỳ.'],
@@ -147,7 +146,7 @@ post = [
     },
     {
 
-        id :6,
+        id :5,
         name :'Yamagata',
         img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-Yamagata-nhat-ban.webp',
         content :['Yamagata nằm ở Tohoku, được mệnh danh là vùng đất của suối nước nóng (Osen) và hoa anh đào. Có lẽ chỉ cần nghe đến biệt danh này, bạn cũng phần nào mường tượng được vẻ đẹp duy mỹ và thanh bình nơi đây. Đặc sản của Yamagata, bên cạnh hoa hồng, tỳ linh và cá hồi thì còn có những ngôi nhà gỗ nằm san sát nhau, mang theo sắc màu đặc trưng của một Nhật Bản cổ xưa.'],
@@ -179,7 +178,7 @@ post = [
         type :['NhatBan'],
     },
     {
-        id :7,
+        id :6,
         name :'Koh Larn',
         img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-Koh-Larn-Thai-Lan.webp',
         content :['Nếu không thích Pattaya ồn ào, bạn có thể đi tàu khoảng 30 phút để đến Koh Larn – một hòn đảo riêng tư và yên tĩnh. Đảo san hô đặc biệt vắng khách du lịch vào các ngày giữa tuần; bạn có thể tận hưởng trọn vẹn thiên nhiên bình dị và tham gia nhiều hoạt động vui chơi hứng khởi như lặn biển, đi bộ dưới biển, dù lượn, mô tô nước hoặc đi thuyền chuối. Đừng quên mang theo một chiếc camera du lịch có khả năng chống nước để lưu lại những hình ảnh sống động dưới đại dương nghe!'],
@@ -209,5 +208,79 @@ post = [
             
         ],
         type :['ThaiLan'],
+    },
+    {
+        id : 7,
+        name :'Krabi',
+        img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-krabi-cap-doi.webp',
+        content :['Krabi hội tụ mọi nguyên liệu làm nên một kỳ nghỉ trong mơ, dù bạn là người thích nghỉ dưỡng hay ưa mạo hiểm. Buổi sáng, khách du lịch có thể ngắm bình minh từ mỏm đá cao, thư thái chèo thuyền trên mặt biển phẳng lặng và trong vắt đến độ nhìn xuyên thấy đáy. Buổi chiều, khám phá vách núi đá vôi hùng vĩ uốn lượn cạnh bờ biển sẽ là trải nghiệm đáng nhớ. Khi đêm về, hãy sẵn sàng “quẩy cực bốc” ở Krabi Walking Street, với rất nhiều quán café, nhà hàng, quán bar sôi động nhé!'],
+        activities :[
+            {
+                name :'Tham quan đảo James Bond',
+                img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-krabi-cap-doi.webp',
+                des :'Đảo James Bond là một địa danh nổi tiếng thuộc vịnh Phang Nga, miền Nam Thái Lan. Còn được gọi tên tiếng Thái là Ko Tapu nghĩa là hòn đảo đinh, đồi đinh.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                     'Đôi nét về hòn đảo nổi tiếng James Bond':['Được tìm thấy lần đầu tiên và được đưa vào bản đồ du lịch quốc tế khi xuất hiện trong khung cảnh của bộ phim "Người đàn ông với súng ống vàng" của nam diễn viên nổi tiếng tài năng James Bond. Và tên gọi của hòn đảo cũng xuất phát từ lý do này.','https://tour.dulichvietnam.com.vn/uploads/image/du-lich-thai-lan/Phuket/dao-james-bond/james-bond-island.jpg','James Bond - hòn đảo nổi tiếng nhất thuộc Vịnh Phang Nga'],
+                     'Một vài tip cho chuyến thăm James Bond':['Điều cần biết về Đảo James Bond, khu vực này là một điểm đến phổ biến cho thuyền buồm cũng như chèo thuyền kayak. Hầu hết các chuyến du lịch có tổ chức đến đảo James Bond được kết hợp với một chuyến viếng thăm các hòn đảo nổi tiếng khác và bao gồm một điểm dừng cho bữa trưa hải sản tại Koh Panyee quyến rũ - ngôi làng đánh cá của người Hồi giáo gần đó.','https://tour.dulichvietnam.com.vn/uploads/image/du-lich-thai-lan/Phuket/dao-james-bond/dao-james-bond.jpg','Khung cảnh yên bình của James Bond'],
+                },
+            },
+            {
+                name :'tham quan trên đảo Koh Phi Phi',
+                img :'https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_750,h_1500,f_auto/w_46,x_8,y_8,g_south_west,l_klook_water/activities/jfuitczvc3ir879jkg6r/[SALE]TourNg%C3%A0y%C4%90%E1%BA%A3oPhiPhiT%E1%BB%ABKrabiB%E1%BA%B1ngThuy%E1%BB%81nCaoT%E1%BB%91cho%E1%BA%B7ct%C3%A0uCatamaran(%C4%90i%E1%BB%81uh%C3%A0nhb%E1%BB%9FiTTD).webp',
+                des :'Được mệnh danh là hòn ngọc của vùng biển Andaman, Đảo Phi Phi là 1 trong những địa điểm nhất định phải đến ở Thái Lan. Trong chuyến đi đến đảo Phi Phi, bạn sẽ có thể ghé thăm 1 vài địa điểm đặc trưng như Bãi Biển Maya, nơi quay bộ phim phiêu lưu The Beach của tài tử Leonardo DiCaprio năm 2000. Sau bữa ăn trưa thư giãn, bạn sẽ dừng lại ở các khu vườn san hô đầy màu sắc tuyệt đẹp của Vịnh Monkey và lặn để khám phá cuộc sống biển phong phú của nơi này. Thưởng thức một chuyến đi thuyền thư giãn sẽ đưa bạn dọc theo cảnh quan đáng kinh ngạc và dòng nước đổi màu - hãy chụp những bức ảnh hấp dẫn và cảm nhận làn gió biển tươi mát trên làn da của bạn.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                    'Tour sunset và ngắm cá phát sáng plankton trên biển đêm':['Tour được tham quan các đảo như đảo hải tặc Pirate, Maya,( nơi ngắm hoàng hôn tuyệt đẹp, phí vào Maya là 100B), ngắm lagoon nước xanh ngọc và lặn ngắm san hô, cá đủ màu sắc, xem plankton.Tour khởi hành từ 1:30pm đến 7pm.Đa số các tour ở Koh Phi Phi đi bằng long tail với sức chứa 20 người. Nếu bạn đi bằng tàu party thì giá gấp 5 lần và cũng đi những chỗ y hệt.','http://kenh14cdn.com/k:thumb_w/600/Z3WxvDWHkkhwglFfVOnyhzOPBKmr9M/Image/2014/01/blog-01/bio-3-903da/xem-bo-bien-dom-dom-phat-sang-tuyet-dep-o-maldives.jpg',''],
+                    'Scuba Diving (Lặn bằng bình khí)':['Phi Phi là một trong những điểm lặn đẹp nhất Thái Lan. Tour Coach đã từng lặn ở đây, có 2 điểm lặn gọi là Local site gần Phi Phi nằm ở Viking cave và Peleh wall, bạn có thể nhìn thấy nhiều san hô đủ màu sắc, cá Nemo, cá đuối (Sting ray)… Giá 2 lần lặn khoảng 2500bath cho người có bằng lặn bao gồm ăn trưa.','https://static1.squarespace.com/static/549d41a3e4b003c6ce131926/t/5558a507e4b02d69c9aa9ee9/1431872784337/',''],
+                    'Chèo thuyền Kayark khám phá nhiều bãi biển đẹp vắng người ở Phi Phi':['Quanh đảo Phi Phi có vô vàn những bãi biển đẹp, vắng người, còn gì tuyệt vời hơn khi chèo thuyền kayark vừa luyện tập sức khoẻ và tắm ở những bãi biển cát trắng đẹp mê lòng người?','http://4.bp.blogspot.com/-pzcsId3u5ls/VZgWifAWdeI/AAAAAAAACDg/C19wX0Fz5Cg/s1600/main-activities09.jpg',''],
+                    'Ăn uống ở đảo Koh Phi Phi':['Trên trục đường chính dẫn ra biển có rất nhiều streetfood bán giá khá rẻ. Ngoài ra muốn ăn sang hơn thì bạn vào nhà hàng, giá một món trung bình từ 120-200bath.Nhà hàng ngon nhất trên đảo là Cosmic, giá bình dân, nhạc hay, có đủ các món Á, Âu, Tour Coach khuyên bạn nên ăn mỗi ngày ở đây, không cần mắc công tìm các nhà hàng khác.','http://www.thailandtriptour.com/kohphiphi/wp-content/uploads/2011/06/Tonsai-Seafood.jpg','Cosmic restaurant'],
+                },
+            },
+        ],
+        type :['ThaiLan']
+    },
+    {
+
+        id :8,
+        name :'Kyoto',
+        img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/geisha-gion-kyoto-japan-501.webp',
+        content :['Có không ít phim về tình yêu chọn Kyoto làm bối cảnh chính. Lý do thì cũng thật dễ hiểu. Cố đố hơn 1000 năm tuổi này sở hữu những dãy nhà gỗ cổ kính, được trang hoàng bởi cây xanh và nhiều vườn hoa mùa xuân rạng rỡ sắc màu. Kyoto là địa điểm hoàn hảo để cầu hôn, bày tỏ tình cảm hay tìm kiếm “nửa kia” định mệnh.','Bạn không tin à? Diện ngay bộ Kimono ưng ý và dạo phố xem sao nhé!'],
+        activities :[
+            {
+                name :'Thưởng ngoạn Arashiyama',
+                img :'https://resources.matcha-jp.com/resize/720x2000/2019/05/16-77137.jpeg',
+                des :'Arashiyama là địa điểm thăm quan nổi tiếng ở cố đô Kyoto với các địa danh thăm quan như chùa Tenryuji, con đường ở rừng trúc và các công trình có bề dày lịch sử. Bài viết này sẽ giới thiệu các địa điểm thăm quan và các thông tin hữu ích cho việc thăm quan.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                    'Con đường ở rừng trúc':['là địa điểm tiêu biểu ở Arashiyama. Chắc chắn có nhiều người đã từng xem những bức ảnh với không gian thần bí và màu xanh phong phú qua SNS. Tuy vậy “trăm nghe không bằng một thấy”. Các bạn hãy thử tản bộ ở đây để cảm nhận không gian như lạc vào một thế giới khác. Ở đây mở cửa suốt 24 giờ.','https://resources.matcha-jp.com/resize/720x2000/2019/05/16-77091.jpeg','Con đường ở rừng trúc'],
+                    'Tenryuji: Ngôi chùa thiền đã đăng ký di sản thế giới':['Tenryuji là 1 trong những ngôi chùa thiền tiêu biểu của Nhật, được xây dựng năm 1339. Chùa đã được đăng ký di sản thế giới của UNESCO vì tầm quan trọng mang tính văn hoá và lịch sử. Khách thăm quan đến đền thờ lễ bái có thể thăm quan các toà nhà trong khuôn viên chùa bao gồm cả Pháp đường Hatto (Thuyết Pháp Đường) có vẽ hình rồng nổi tiếng. Các bạn có thể ngắm cảnh tuyệt đẹp quanh năm trong khu vườn Nhật Bản trồng cây quanh hồ nước. Ở đây cũng có thể trải nghiệm ngồi thiền hoặc chép kinh.','https://resources.matcha-jp.com/resize/720x2000/2019/05/16-77096.jpeg','Picture courtesy of Tenryuji'],
+                    'Arashiyama Monkey Park Iwatayama: Gặp động vật xinh xắn':['Arashiyama Monkey Park Iwatayama là nơi có thể quan sát loài khỉ Nhật Bản hoang dã sinh sống ở ngọn núi có thể quan sát toàn cảnh thành phố Kyoto.Đây là địa điểm không bao giờ nhàm chán với những người yêu thích động vật và gia đình có trẻ nhỏ, những con khỉ đáng yêu sẽ xoa dịu tâm hồn khách đến đây.','https://resources.matcha-jp.com/resize/720x2000/2019/05/16-77103.jpeg','Picture courtesy of Arashiyama Monkey Park Iwatayama'],
+                },
+            },
+        ],
+        type :['NhatBan'],
+    },
+    {
+
+        id :9,
+        name :'Mũi Né',
+        img :'https://res.klook.com/image/upload/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive,q_85/c_fill,w_680/fl_lossy.progressive/q_auto/f_auto/blogvn/2019/08/du-lich-mui-ne.webp',
+        content :['Cách thành phố Phan Thiết khoảng 22km về hướng Đông Bắc, Mũi Né sở hữu một trong những đường bờ biển đẹp nhất Việt Nam với nước biển xanh ngắt, không khí trong lành và cát trắng mịn. Nhờ vào thiên nhiên đa dạng, du khách sẽ được tham gia nhiều trải nghiệm du lịch thú vị ở nơi đây, ví dụ như chạy mô-tô nước, lặn biển, lướt ván, trượt cát, leo thác….','Có rất nhiều khu nghỉ dưỡng hiện đại ở Mũi Né, cùng các nhà hàng, quán bar hướng biển độc đáo. Bên cạnh chụp ảnh cưới, các cặp đôi cũng thường đến đây để tạo kỷ niệm đẹp, tận hưởng những tháng ngày độc thân cuối cùng trước hôn lễ.'],
+        activities :[
+            {
+                name :'6 hoạt động không nên bỏ lỡ ở Phan Thiết – Mũi Né',
+                img :'https://www.chudu24.com/wp-content/uploads/2018/08/du-lich-mui-ne-phan-thiet.jpg',
+                des :'Du lịch hè Phan Thiết – Mũi Né, ghé thăm những làng chài lúc tờ mờ sáng, lướt SUV, hay ngắm hoàng hôn từ ngọn hải đăng… là những hoạt động mà bạn nên tham gia trải nghiệm để cảm nhận về vẻ đẹp của vùng biển Bình Thuận đầy nắng và gió.',
+                sub_content:{
+                     // 'tieu de': ['noi_dung','link_anh', 'phan_mo_ta_anh'] in ra theo thu tu nay la dc
+                    'Ghé thăm làng chài vào tờ mờ sáng':['Dạo chợ Mũi Né và những làng chài ven biển vào lúc bình minh, bạn vừa có  dịp ngắm Mặt trời mọc vừa được xem bức tranh chân thật nhất về cuộc sống của ngư dân Việt Nam. Những bong thuyền cặp bờ đầy ắp cá tôm, các loại hải sản cua, ghẹ… để trao đổi với chủ nhà hàng, thương lái. Những  mẻ lưới, rổ rá đầy ắp hải sản tươi, những giọt mồ hôi đọng lại trên nụ cười các thành viên trong gia đình sau mỗi cuộc mưu sinh sẽ cho các bạn những cảm nhận mới về cuộc sống.','https://photo2.tinhte.vn/data/attachment-files/2020/11/5220874_collage_3.jpg','https://photo2.tinhte.vn/data/attachment-files/2020/11/5220874_collage_3.jpg'],
+                    'Ngắm hoàng hôn từ hải đăng Mũi Kê Gà':['Ngọn hải đăng Mũi Kê Gà nằm dọc bờ biển phía nam Phan Thiết cách trung tâm thành phố 30km với những bãi đá hình thù đa dạng, đầy màu sắc. Đây sẽ là điểm đến lãng mạn để các cặp tình nhân thỏa sức ngắm hoàng hôn. Mũi Kê Gà là ngọn hải đăng cao nhất Việt Nam và đẹp nhất Đông Nam Á được xây từ cách đây 120 năm. Chinh phục 183 bậc thang xoáy, phóng tầm nhìn từ ngọn Hải Đăng vào buổi hoàng hôn, bạn sẽ chiêm ngưỡng bức tranh huyền ảo của vùng biển Hàm Thuận Nam nguyên sơ và thanh bình.','https://wiki-travel.com.vn/Uploads/picture/camnhi-200227040251-hai-dang-mui-ke-ga.jpg','Ngọn hải đăng Mũi Kê Gà lúc hoàng hôn'],
+                    'Môn Lướt Ván Diều':['Tại bãi biển dài hàng chục km ở Mũi Né, vào buổi sáng không khí thường yên tĩnh, còn buổi chiều bắt đầu náo nhiệt hơn với những hoạt động nhộn nhịp. Đây là thời điểm thích hợp dành cho những người yêu thích lướt ván diều, lướt ván buồm, lướt ván bằng cano. Những môn thể thao này không chỉ giúp rèn luyện sức khỏe mà còn mang đến trải nghiệm mới lạ cho bạn.','https://www.luotvandieu.com/wp-content/uploads/2019/06/luot-van-mn.jpg','Chơi Diều tại Mũi né'],
+                },
+            },
+           
+        ],
+        type :['VietNam']
     },
 ]
