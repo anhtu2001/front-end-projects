@@ -7,7 +7,9 @@
     <title>Document</title>
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="./css/all.css">
-
+    <!-- Owl-Carousel -->
+    <link rel = "stylesheet" href = "./css/owl.carousel.min.css">
+    <link rel = "stylesheet" href = "./css/owl.theme.default.min.css">
     <link rel="stylesheet" href="./css/styles.css">
     <link rel="stylesheet" href="./css/edit-form.css">
     
@@ -25,11 +27,15 @@
                         style="color:black; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 80%;"></div>
                 </div>
             </div>
-
+            <div class = 'toggle-collapse'>
+                <div class="toggle-icons">
+                    <i class="fas fa-bars"></i>
+                </div>
+            </div>
             <div>
                 <ul class="nav-items">
                     <li class="nav-link">
-                        <a href='#'>Home</a>
+                        <a href='#' onclick="back_home()">Home</a>
                     </li>
                     <li class="nav-link">
                         <a href='#'>Category</a>
@@ -50,7 +56,8 @@
             </div>
         </div>
     </nav>
-    <!-- <br> -->
+    
+
     <div id="main-page">
         <div class="modal-bg" id="admin-panel-display">
             <div id="admin-panel" style="border: black 4px solid;">
@@ -81,9 +88,7 @@
                 </div>
             </div>
         </div>
-        <div>
-
-        </div>
+        
         <div class="modal-bg" id="login-modal">
             <div class="form" id="login-form-display">
                 <form id="register-form" hidden>
@@ -124,13 +129,49 @@
         <div id="admin-panel-btn" onclick="openAdminPanel()" hidden>ADMIN PANEL</div>
 
         <!-- CONTENT BOX STARTS HERE        -->
-        <div id='content-box'>
+        <div id='content-box' hidden>
 
         </div>
     </div>
 
+    <!----------------------------- Main Site Section ------------------------------>
+    <main id = "main">
+        <section class="site-title">
+            <div class="site-background" data-aos="fade-up" data-aos-delay="100">
+                <h3>Tours & Travels</h3>
+                <h1>Amazing Place on Earth</h1>
+                <button class="btn">Explore</button>
+            </div>
+        </section>
+        <!-- --------------------- Blog Carousel ----------------- -->
+
+        <section>
+            <div class="blog">
+                <div class="container">
+                    <div class="owl-carousel owl-theme blog-post" id = "blog-post">
+                        <!-- Carousel HERE  -->
+                    </div>
+                    <div class="owl-navigation">
+                        <span class="owl-nav-prev"><i class="fas fa-long-arrow-alt-left"></i></span>
+                        <span class="owl-nav-next"><i class="fas fa-long-arrow-alt-right"></i></span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ----------x---------- Blog Carousel --------x-------- -->
+    </main>
+    <!---------------x------------- Main Site Section ---------------x-------------->
     <!-- ___________________________________________________ -->
+    <!-- Jquery Lib file -->
+    <script src = "./jsView/Jquery3.4.1.min.js"></script>
+    <!-- Owl-Carousel -->
+    <script src = "jsView/owl.carousel.min.js"></script>
+    
+    <!-- Custom js file -->
+    <script src="./jsView/main.js"></script>
     <script src="content-database.js"></script>
+    <script src = "./jsView/blogCarousel.js"></script>
     <script src="user-database.js"></script>
     <script src="display-content.js"></script>
     <script src="login.js"></script>

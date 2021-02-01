@@ -4,7 +4,7 @@ html, body{
 	/* padding: 0; */
 	/* background-color: rgb(252, 246, 255); */
 		box-sizing: border-box;
-		overflow: hidden;
+		/* overflow: hidden; */
 }
 :root{
 	/*      Theme colors        */
@@ -24,27 +24,71 @@ html, body{
     --Lexend: 'Lexend', cursive;
     --Livvic : 'Livvic', cursive;
 }
-/* _____________global classes_______________ */
+/* ---------------- Global Classes ---------------*/
+
 a{
-	text-decoration: none;
-	color: var(--text-gray);
+    text-decoration: none;
+    color: var(--text-gray);
 }
+
 .flex-row{
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;    
+    flex-wrap: wrap;
 }
+
 ul{
-	list-style-type: none;
+    list-style-type: none;
 }
-/* ___x__________global classes___________x___ */
+
+h1{
+    font-family: var(--Lexend);
+    font-size: 2.5rem;
+}
+
+h2{
+    font-family: var(--Lexend);
+}
+
+h3{
+    font-family: var(--Abel);
+    font-size: 1.3rem;
+}
+
+button.btn{
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    font-family: var(--Livvic);
+    cursor: pointer;
+}
+
+span{
+    font-family: var(--Abel);
+}
+
+.container{
+    margin: 0 5vw;
+}
+
+.text-gray{
+    color: var(--text-gray);
+}
+
+p{
+    font-family: var(--Lexend);
+    color: var(--text-light);
+}
+
+/* ------x------- Global Classes -------x-------*/
 /* --------------- navbar ----------------- */
 
 .nav{
     background: white;
     padding: 0 2rem;
     height: 0rem;
-    min-height: 20vh;/*10*/
+    min-height: 16vh;/*10*/
     overflow: hidden;
     transition: height 1s ease-in-out;
 }
@@ -118,7 +162,101 @@ ul{
 }
 
 /* -------x------- navbar ---------x------- */
+/* ___________________main content_____________ */
+/* ___________________img title_____________ */
+main .site-title{
+    background: url('../Images/Background-image.png');
+    background-size: cover;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+}
 
+main .site-title .site-background{
+    padding-top: 10rem;
+    text-align: center;
+    color: var(--white);
+}
+
+main .site-title h1, h3{
+    margin: .3rem;
+}
+
+main .site-title .btn{
+    margin: 1.8rem;
+    background: var(--sky);
+}
+
+main .site-title .btn:hover{
+    background: transparent;
+    border: 1px solid var(--white);
+    color: var(--white);
+}
+/* ___x_______________img title________x____ */
+/* --------------- Blog Carousel ------------ */
+
+main .blog{
+    background: url('../Images/Abract01.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 100vh;
+    width: 100%;
+    background-size: 65%;
+}
+
+main .blog .blog-post{
+    padding-top: 6rem;
+}
+
+main .blog-post .blog-content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 80%;
+    margin: 3rem 2rem;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+}
+
+main .blog-content .blog-title{
+    padding: 2rem 0;
+}
+
+main .blog-content .btn-blog{
+    padding: .7rem 2rem;
+    background: var(--sky);
+    margin: .5rem;
+}
+
+main .blog-content span{
+    display: block;
+}
+
+section .container .owl-nav{
+    position: absolute;
+    top: 0%;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.owl-nav .owl-prev .owl-nav-prev,
+.owl-nav .owl-next .owl-nav-next{
+    color: var(--text-gray);
+    background: transparent;
+    font-size: 2rem;
+}
+
+.owl-theme .owl-nav [class*='owl-']:hover{
+    background: transparent;
+    color: var(--midnight);
+}
+
+.owl-theme .owl-nav [class*='owl-']{
+    outline: none;
+}
+
+
+/* -------x------- Blog Carousel -----x------ */
+/* ___x_______________main content________x____ */
 /* .header {
 	display: flex;
 	width: 100%;
@@ -128,13 +266,13 @@ ul{
 	height: fit-content;
 	min-height: 50px;
 } */
-#main-page {
+/* #main-page {
 	background-size: 100%;
 	padding-bottom: 30px;
 	display: block;
 	position: sticky;
 	background-repeat: inherit;
-}
+} */
 #login-btn {
 	color:black;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -328,3 +466,78 @@ ul{
 	  width: 70%;
 	  margin: auto;
   }
+/* ____________________________________ */
+/*              Viewport less then or equal to 1130px            */
+
+@media only screen and (max-width: 1130px){
+    .site-content .post-content > .post-image .post-info{
+        left: 2rem !important;
+        bottom: 1.2rem !important;
+        border-radius: 0% !important;
+    }
+
+    .site-content .sidebar .popular-post .post-info{
+        display: none !important;
+    }
+
+    footer.footer .container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+/*      x       Viewport less then or equal to 1130px    x     */
+
+
+/*              Viewport less then or equal to 750px            */
+
+@media only screen and (max-width: 750px){
+    .nav .nav-menu, .nav .nav-items{
+        flex-direction: column;
+    }
+
+    .nav .toggle-collapse{
+        display: initial;
+    }
+
+    /* main .site-content{
+        grid-template-columns: 100%;
+    }
+
+    footer.footer .container{
+        grid-template-columns: repeat(1, 1fr);
+    } */
+
+}
+
+
+/*        x      Viewport less then or equal to 750px       x     */
+
+
+/*              Viewport less then or equal to 520px            */
+
+/* @media only screen and (max-width: 520px){
+    main .blog{
+        height: 125vh;
+    }
+
+    .site-content .post-content > .post-image .post-info{
+        display: none;
+    }
+
+    footer.footer .container > div{
+        padding:  1rem .9rem !important;
+    }
+
+    footer .rights{
+        padding: 0 1.4rem;
+        text-align: center;
+    }
+
+    nav .toggle-collapse{
+        width: 80% !important;
+    }
+
+} */
+
+/*        x      Viewport less then or equal to 520px       x     */
